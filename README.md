@@ -32,6 +32,10 @@ Menu principal de l’application :
 ![alt text](<Menu Principal.png>)
 ---
 
+Capture d'accident de voiture :
+
+![screenshot_20240522150721](https://github.com/user-attachments/assets/d4b68a89-0650-428a-92b1-8862df42a67c)
+
 ##  Installation
 
 ### 1. Cloner le projet :
