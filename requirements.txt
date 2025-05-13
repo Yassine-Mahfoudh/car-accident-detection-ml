@@ -1,0 +1,9 @@
+# python 3.7
+numpy
+pandas
+opencv-python
+tensorflow
+keras
+#tkinter # its usually included with Python
+ipykernel 
+pillow
